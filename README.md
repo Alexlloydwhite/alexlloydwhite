@@ -14,7 +14,3 @@
  <a href="https://www.linkedin.com/in/alex-white-92aa88200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:alexlloydwhite@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-## 🏆 My Github Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexlloydwhite&show_icons=true&count_private=true)
