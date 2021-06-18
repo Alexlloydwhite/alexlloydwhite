@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Alex!
+### Hello Today! 👋 
 
 - 🔭 I’m currently working on my final project at Prime Digital Academy
 - 🌱 I’m currently learning Typescript & mastering React
