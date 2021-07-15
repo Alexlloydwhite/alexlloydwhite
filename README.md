@@ -1,6 +1,6 @@
 ### Hello Today! 👋 
 
-- 🔭 I’m currently working on my final project at Prime Digital Academy (for a real world client!)
+- 🔭 I’m a recent graduate from Prime Digital Academy
 - 🌱 I’m currently learning Typescript & mastering React
 - 💬 Ask me about my favorite coding meme
 - 📫 How to reach me: Alexlloydwhite@gmail.com
