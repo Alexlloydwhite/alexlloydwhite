@@ -1,6 +1,6 @@
 ### Hello Today! 👋 
 
-- 💻 Check out my ![profolio](www.alexlloydwhite.com)
+- 💻 Check out my ![profolio](https://www.alexlloydwhite.com)
 - 🔭 I’m a recent graduate from Prime Digital Academy
 - 🌱 I’m currently learning Typescript & mastering React
 - 💬 Ask me about my favorite coding meme
